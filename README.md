@@ -12,12 +12,12 @@ How accurately we can predict claim costs for auto insurance policies using XGBo
 Forest, and Neural Network models?
 
 ## Datasets:
-‒ Training dataset: 22,619 policies with 1,542 (6.8%) have at
+Training dataset: 22,619 policies with 1,542 (6.8%) have at
 least one claim (80% for model generation and 20% for test)
-‒ Validation dataset (Company evaluation): 22,620 policies
+Validation dataset (Company evaluation): 22,620 policies
 ## Variables:
-‒ Response variables: claim (0 or 1), claim counts, claim cost
-‒ Potential predictors:18 variables
+Response variables: claim (0 or 1), claim counts, claim cost
+Potential predictors:18 variables
 
 ## Preprocessing:
 
